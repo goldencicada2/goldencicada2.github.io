@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DEVkK7BN.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.M}],execute:function(){e("C",r("ChevronRight",[["path",{d:"m9 18 6-6-6-6",key:"mthhwq"}]]))}}}));
